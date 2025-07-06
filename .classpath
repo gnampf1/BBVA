@@ -8,8 +8,8 @@
 	</classpathentry>
 	<classpathentry combineaccessrules="false" kind="src" path="/hibiscus"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/jameica"/>
-	<classpathentry kind="lib" path="lib/json-20250107.jar"/>
-	<classpathentry kind="lib" path="/home/dridders/jameica.test/plugins/hibiscus.scripting.htmlunit/lib/org.htmlunit/htmlunit-3.4.0.jar"/>
-	<classpathentry kind="lib" path="/home/dridders/jameica.test/plugins/hibiscus.scripting.htmlunit/lib/org.htmlunit/htmlunit-core-js-3.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit.jar"/>
+	<classpathentry kind="lib" path="lib/htmlunit-core-js.jar"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

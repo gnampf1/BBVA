@@ -236,7 +236,7 @@ public class BBVASynchronizeJobKontoauszug extends SynchronizeJobKontoauszug imp
         else 
         {
             Logger.debug("Don't cache PINs");
-            passwortHashtable.put(kundenNummer,null);
+            passwortHashtable.remove(kundenNummer);
         }
         
         if (storePins) 
